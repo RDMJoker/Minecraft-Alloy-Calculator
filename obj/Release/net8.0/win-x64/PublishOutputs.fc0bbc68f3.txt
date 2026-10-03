@@ -1,2 +1,0 @@
-C:\Users\Admin\RiderProjects\Minecraft Alloy Calculator\Minecraft Alloy Calculator\bin\Release\net8.0\win-x64\publish\Minecraft Alloy Calculator.pdb
-C:\Users\Admin\RiderProjects\Minecraft Alloy Calculator\Minecraft Alloy Calculator\bin\Release\net8.0\win-x64\publish\Minecraft Alloy Calculator.exe
